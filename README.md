@@ -10,20 +10,20 @@ Create a model that will illustrate: \
 (2) what conditions will cause that default to occur, \
 (3) and how much money the bank will have been able to recoup from the lendee before default.
 
-### Project Data Source:
+# Project Data Source:
 https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014?resource=download
 
-Dataset Specs:
-> - Number of Columns: 75
-> - Number of Rows: 466,000
-> - Target Column: "Loan Status"
-> - Target column values:
->   - Current
->   - Fully Paid Off
->   - **Charged Off**  <-- (For our purposes, equivalent to default)
->   - Late (31 - 120 Days)
->   - In Grace Period
-> - Original source: Lending Club Data from 2007-2014 (Lending Club is no longer providing this sort of information publically)
+### Dataset Specs:
+ - Number of Columns: 75
+ - Number of Rows: 466,000
+ - Target Column: "Loan Status"
+ - Target column values:
+   - Current
+   - Fully Paid Off
+   - **Charged Off**  <-- (For our purposes, equivalent to default)
+   - Late (31 - 120 Days)
+   - In Grace Period
+ - Original source: Lending Club Data from 2007-2014 (Lending Club is no longer providing this sort of information publically)
 
 Dataset column interpretations: (selection of important columns provided here)
 > - col1
