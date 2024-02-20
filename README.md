@@ -11,13 +11,13 @@ Create a model that will illustrate: \
 (3) and how much money the bank will have recouped from the lendee before default.
 
 ## Team Members:
-Adam Raabe \
-Pranav Tanaji Ghadge \
+Adam Raabe |
+Pranav Tanaji Ghadge |
 Vishnu Vardhan Reddy Putha
 
 ### Role of Team Members:
-Adam Raabe:  Researcher and  Literature Reviewer
-Pranav Tanaji Ghadge: Data Cleansing and Transformation
+Adam Raabe:  Researcher and  Literature Reviewer \
+Pranav Tanaji Ghadge: Data Cleansing and Transformation \
 Vishnu Vardhan Reddy Putha: Github organizer and Exploratory Data Analysis (EDA)
 
 # Project Data Source:
