@@ -11,8 +11,8 @@ Create a model that will illustrate: \
 (3) and how much money the bank will have recouped from the lendee before default.
 
 ## Team Members:
-Adam Raabe |
-Pranav Tanaji Ghadge |
+Adam Raabe \
+Pranav Tanaji Ghadge \
 Vishnu Vardhan Reddy Putha
 
 ### Role of Team Members:
