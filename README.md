@@ -13,7 +13,7 @@ Create a model that will illustrate: \
 ## Team Members:
 Adam Raabe |
 Pranav Tanaji Ghadge |
-Vishnu Vardhan Reddy Putha
+Vishnu Vardhan Reddy Putha.
 
 ### Role of Team Members:
 Adam Raabe:  Researcher and  Literature Reviewer \
