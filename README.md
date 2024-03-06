@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014?resource=download
    - Fully Paid
    - **Charged Off**  <-- (For our purposes, equivalent to default)
    - Late (16-30 days)
-   - Late (31 - 120 Days)
+   - Late (31-120 Days)
    - In Grace Period
  - Original source: Lending Club Data from 2007-2014 (Lending Club is no longer providing this sort of information publically)
 
