@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014?resource=download
  - Number of Rows: 466,000
  - Target Column: "Loan Status"
  - Target column values:
-   - Current
+   - [_Current_] <-- (Left out because these data have not resolved into their final states)
    - Fully Paid
    - **Charged Off**  <-- (For our purposes, equivalent to default)
    - Late (16-30 days)
