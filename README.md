@@ -105,3 +105,6 @@ https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014?resource=download
  - Support Vector Machines (SVM): Yielded around 25% accuracy for predicting "Charged Off" and 86% for "Fully Paid" loans.
  - Gradient Boosting (XGBoost): Attained approximately 31% accuracy for predicting "Charged Off" and 89% for "Fully Paid" loans.
  - Employed ensemble techniques like Voting Classifier and Bagging for further improvements in accuracy and robustness.
+
+### Link to Summarizing Blogpost
+> [https://www.blogger.com/u/1/blog/posts/5640302016648069234](https://pavgroup.blogspot.com/2024/04/a-look-at-using-machine-learning-to.html)
